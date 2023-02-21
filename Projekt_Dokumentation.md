@@ -17,8 +17,13 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen. Deswegen haben
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1 | muss | Funktional | Als ein Spieler möchte ich den Vogel steuern, damit ich den Pipes Ausweichen kann |
+| 2 | muss | Funktional | Als ein Spieler möchte ich eine Form von Behlohnung erhalten, indem ich Leistungen erbringe | 
+| 3 | kann | Qualität | Als ein Spieler möchte ich verschiedene Visuelle Level spielen können |
+| 4 | kann | Qualität | Als ein Spieler möchte ich verschiedene Easter Eggs im Spiel finden können |
+| 5 |  |  |  |
+|  |  |  |  |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
