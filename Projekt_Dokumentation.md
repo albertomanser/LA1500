@@ -25,7 +25,7 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen. Deswegen haben
 | 5    | Muss                |Funktional      | Als ein Spieler möchte ich, eine neue Runde starten können.  |
 | 6 |   Muss              | Funktional     |  Als ein Spieler möchte ich, dass die Hindernisse unterschiedlich ist.   |
 | 7  |  Muss               | Funktional     | Als ein Spieler möchte ich wissen, wie weit ich gekommen bin und wie lange ich überlebt habe.   |
-| 8 |  Muss               |  Funktional    | Als ein Spieler möchte ich den Vogel lenken.   |
+| 8 |  Muss               |  Funktional    | Als ein Programmierer möchte ich, dass ich dass das Spiel absturzsicher ist.   |
 | 9  | Muss                | Funktional     |Als ein Spieler möchte ich mein Highscore in Menu sehen.                                    |
 | 10  | Muss                | Rand     |   Das Programm soll in C# geschrieben werden.                                 |
 
