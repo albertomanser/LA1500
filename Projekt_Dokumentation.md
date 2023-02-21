@@ -1,6 +1,6 @@
 # Projekt-Dokumentation
 
-Gruppenname: Gardenien
+Gruppenname: Gardenia
 
 Gruppenmitglieder: Atputharasa, Bächli, Kritzner, Manser 
 
@@ -40,7 +40,28 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen. Deswegen haben
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.2  |              |         |                   |
+| 2.1  |              |         |                   |
+| 2.2  |              |         |                   |
+| 3.1  |              |         |                   |
+| 3.2  |              |         |                   |
+| 4.1  |              |         |                   |
+| 4.2  |              |         |                   |
+| 5.1  |              |         |                   |
+| 5.2  |              |         |                   |
+| 6.1  |              |         |                   |
+| 6.2  |              |         |                   |
+| 7.1  |              |         |                   |
+| 7.2  |              |         |                   |
+| 8.1  |              |         |                   |
+| 8.2  |              |         |                   |
+| 9.1  |              |         |                   |
+| 9.2  |              |         |                   |
+| 10.1  |              |         |                   |
+| 10.2  |              |         |                   |
+| 11.1  |              |         |                   |
+| 11.2  |              |         |                   |
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
