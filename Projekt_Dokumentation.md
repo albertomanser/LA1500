@@ -11,7 +11,7 @@ Bächli, Kritzner, Manser, Atputharasa
 
 ### 1.1 Ihr Projekt
 
-Allen hat das Programmieren mit Windows Forms am besten gefallen. Deswegen haben wir uns dazu entschlossen ein Flappy Bird Game zu programmieren. Wir möchten am Schluss ein funktionales Spiel haben und dabei noch einiges über Windows Forms lernen. Ausserdem wollen wir ein einzigartiges Flappy Bird mit vielen neuen Funktionenen erstellen.
+Allen hat das Programmieren mit Windows Forms am besten gefallen. Deswegen haben wir uns dazu entschlossen ein Flappy Bird Game zu programmieren. Das Game soll viele neue, einzigartige Level haben, die man mit Schlüsseln freischalten kann. Die Schlüssel kann man kaufen, wenn man einen genug hohen Score hat. Wir möchten am Schluss ein funktionales Spiel haben und dabei noch einiges über Windows Forms lernen. 
 
 ### 1.2 User Stories
 
