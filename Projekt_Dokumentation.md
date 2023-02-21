@@ -4,7 +4,7 @@ Bächli, Kritzner, Manser, Atputharasa
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | Dokumentation angefangen und Schritte 1.1, 1.2 und 1.4 ausgefüllt. |
+| 21.02.23      | 0.0.1   | Dokumentation angefangen und Schritte 1.1, 1.2 und 1.4 ausgefüllt. |
 
 
 ## 1 Informieren
@@ -17,8 +17,18 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen. Deswegen haben
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    | Muss                |Funktional      | Als ein Spieler möchte ich, eine neue Runde starten können.  |
+| 2 |   Muss              | Funktional     |  Als ein Spieler möchte ich, dass die Hindernisse unterschiedlich ist.   |
+| 3  |  Muss               | Funktional     | Als ein Spieler möchte ich wissen, wie weit ich gekommen bin und wie lange ich überlebt habe.   |
+| 4 |  Muss               |  Funktional    | Als ein Spieler möchte ich den Vogel lenken.   |
+| 5  | Muss                | Funktional     |Als ein Spieler möchte ich mein Highscore in Menu sehen.                                    |
+| 6  | Kann                | Qualität     |                                    |
+| 7  | Kann                | Qualität     |                                    |
+| 8  | Kann                | Qualität     |                                    |
+| 9  | Kann                |  Qualität    |                                    |
+| 10  | Kann                | Qualität     |                                    |
+| 11  | Muss                | Rand     |   Das Programm soll in C# geschrieben werden.                                 |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
