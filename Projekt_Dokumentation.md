@@ -13,7 +13,7 @@ Gruppenmitglieder: Atputharasa, Bächli, Kritzner, Manser
 
 ### 1.1 Ihr Projekt
 
-Allen hat das Programmieren mit Windows Forms am besten gefallen. Deswegen haben wir uns dazu entschlossen ein Flappy Bird Game zu programmieren. Das Game soll viele neue, einzigartige Level haben, die man mit Schlüsseln freischalten kann. Die Schlüssel kann man kaufen, wenn man einen genug hohen Score hat. Wir möchten am Schluss ein funktionales Spiel haben und dabei noch einiges über Windows Forms lernen. 
+Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zusätzlich unsere Kenntnise darin vertiefen. Deswegen haben wir uns dazu entschlossen ein Flappy Bird Game zu programmieren. Das Game soll viele neue, einzigartige Level haben, die man mit Schlüsseln freischalten kann. Die Schlüssel kann man kaufen, wenn man einen genug hohen Score hat. Wir möchten am Schluss ein funktionales Spiel haben und dabei noch einiges über Windows Forms lernen. 
 
 ### 1.2 User Stories
 
