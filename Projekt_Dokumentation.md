@@ -24,7 +24,7 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen. Deswegen haben
 | 3 | Kann | Qualität | Als ein Spieler möchte ich verschiedene Level spielen können. |
 | 4 | Kann | Qualität | Als ein Spieler möchte ich verschiedene Easter Eggs im Spiel finden können.|
 | 5 | Muss | Funktional | Als ein Spieler möchte ich, eine neue Runde starten können. |
-| 6 | Muss | Funktional | Als ein Spieler möchte ich, dass die Hindernisse unterschiedlich ist. |
+| 6 | Muss | Funktional | Als ein Spieler möchte ich, dass die Hindernisse unterschiedlich sind. |
 | 7 | Muss | Funktional | Als ein Spieler möchte ich wissen, wie weit ich gekommen bin und wie lange ich überlebt habe. |
 | 8 | Muss | Funktional | Als ein Programmierer möchte ich, dass ich dass das Spiel absturzsicher ist. |
 | 9 | Muss | Funktional |Als ein Spieler möchte ich mein Highscore in Menu sehen. |
