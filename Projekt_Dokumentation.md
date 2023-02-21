@@ -1,7 +1,8 @@
 # Projekt-Dokumentation
 
-Gruppenname Gardenien
-Gruppenmitglieder Atputharasa, Bächli, Kritzner, Manser 
+Gruppenname: Gardenien
+
+Gruppenmitglieder: Atputharasa, Bächli, Kritzner, Manser 
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
