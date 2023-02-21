@@ -1,10 +1,11 @@
 # Projekt-Dokumentation
 
-Bächli, Kritzner, Manser, Atputharasa
+Gruppenname Gardenien
+Gruppenmitglieder Atputharasa, Bächli, Kritzner, Manser 
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | Dokumentation angefangen und Schritte 1.1, 1.2 und 1.4 ausgefüllt. |
+|  21.02.23     | 0.0.1   | Dokumentation angefangen und Schritte 1.1, 1.2 und 1.4 ausgefüllt. |
 
 
 ## 1 Informieren
