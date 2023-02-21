@@ -11,9 +11,7 @@ Bächli, Kritzner, Manser, Atputharasa
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
-
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Allen hat das Programmieren mit Windows Forms am besten gefallen. Deswegen haben wir uns dazu entschlossen ein Flappy Bird Game zu programmieren. Wir möchten am Schluss ein funktionales Spiel haben und dabei noch einiges über Windows Forms lernen. Ausserdem wollen wir ein einzigartiges Flappy Bird mit vielen neuen Funktionenen erstellen.
 
 ### 1.2 User Stories
 
