@@ -62,10 +62,10 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus√
 
 | AP-‚Ññ | Frist | Zust√§ndig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| 1.B  |       |           |              |               |
-| 1.C  |       |           |              |               |
-| 1.D  |       |           |              |               |
+| 1.A  |       |  Atputharasa       |   Implementierung der Vogel-Steuerung            |               |
+| 1.B  |       |   Atputharasa          | Testing der Vogel-Steuerung              |               |
+| 1.C  |       |   Atputharasa          |   Anpassung der Steuerungsempfindlichkeit             |               |
+| 1.D  |       |    Atputharasa         |              |               |
 | 2.A  |       |           |              |               |
 | 2.B  |       |           |              |               |
 | 2.C  |       |           |              |               |
@@ -78,14 +78,14 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus√
 | 4.B  |       |           |              |               |
 | 4.C  |       |           |              |               |
 | 4.D  |       |           |              |               |
-| 5.A  |       |           |              |               |
-| 5.B  |       |           |              |               |
-| 5.C  |       |           |              |               |
-| 5.D  |       |           |              |               |
-| 6.A  |       |           |              |               |
-| 6.B  |       |           |              |               |
-| 6.C  |       |           |              |               |
-| 6.D  |       |           |              |               |
+| 5.A  |       |  Atputharasa           |  Implementierung der Neustart-Funktion             |               |
+| 5.B  |       |  Atputharasa           |  Testing der Neustart-Funktion            |               |
+| 5.C  |       |  Atputharasa           |              |               |
+| 5.D  |       |  Atputharasa           |              |               |
+| 6.A  |       |  Atputharasa         |  Planung der unterschiedlichen Hindernistypen            |               |
+| 6.B  |       |  Atputharasa         |  Implementierung der Hindernistypen            |               |
+| 6.C  |       |  Atputharasa         |  Testing der Hindernistypen            |               |
+| 6.D  |       |  Atputharasa         |              |               |
 | 7.A  |       |           |              |               |
 | 7.B  |       |           |              |               |
 | 7.C  |       |           |              |               |
@@ -94,10 +94,10 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus√
 | 8.B  |       |           |              |               |
 | 8.C  |       |           |              |               |
 | 8.D  |       |           |              |               |
-| 9.A  |       |           |              |               |
-| 9.B  |       |           |              |               |
-| 9.C  |       |           |              |               |
-| 9.D  |       |           |              |               |
+| 9.A  |       | Atputharasa          | Implementierung einer Anzeige f√ºr den aktuellen Highscore.              |               |
+| 9.B  |       | Atputharasa          |  Implementierung einer Funktion, um den Highscore im Men√º anzuzeigen.             |               |
+| 9.C  |       | Atputharasa          |  Testing der Anzeige auf Richtigkeit.             |               |
+| 9.D  |       | Atputharasa          |              |               |
 | 10.A  |       |           |              |               |
 | 10.B  |       |           |              |               |
 | 10.C  |       |           |              |               |
