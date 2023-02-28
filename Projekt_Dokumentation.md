@@ -28,8 +28,8 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 7 | Muss | Funktional | Als ein Spieler möchte ich wissen, wie weit ich gekommen bin und wie lange ich überlebt habe. |
 | 8 | Muss | Funktional | Als ein Programmierer möchte ich, dass das Spiel absturzsicher ist. |
 | 9 | Muss | Funktional |Als ein Spieler möchte ich mein Highscore im Menu sehen. |
-| 10 | Muss | Rand | Das Programm soll in C# geschrieben werden. |
-| 11 | Kann | Qualität | Als Spieler möchte ich verschiedene Skins verwenden können |
+| 10 | Kann | Qualität | Als Spieler möchte ich verschiedene Skins verwenden können |
+| 11 | Muss | Rand | Das Programm soll in C# geschrieben werden. |
 
 ### 1.3 Testfälle
 
@@ -48,10 +48,8 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 8.1  | Spiel gestartet | alles mögliche | Das Programm läuft weiter|
 | 9.1  |  Spieler öffnet das Menü            | -        |  Der Spieler sieht seinen aktuellen Highscore.                 |
 | 9.2  |  Spiel läuft, Spieler erzielt einen neuen Highscore            |   -      | Der Spieler sieht seinen neuen Highscore im Menü.                  |
-| 10.1  |              |         |                   |
-| 10.2  |              |         |                   |
-| 11.1  | Shop geöffnet | Skin kaufen | Skin wurde erfolgreich gekauft und wurde der Garderobe hinzugefügt |
-| 11.2  | Garderobe geöffnet | Skin auswählen | Skin wurde erfolgreich ausgewählt |
+| 10.1  | Shop geöffnet | Skin kaufen | Skin wurde erfolgreich gekauft und wurde der Garderobe hinzugefügt |
+| 10.2  | Garderobe geöffnet | Skin auswählen | Skin wurde erfolgreich ausgewählt |
 
 ### 1.4 Diagramme
 
