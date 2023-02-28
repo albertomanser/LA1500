@@ -35,10 +35,10 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| 1.2  |              |         |                   |
-| 2.1  |              |         |                   |
-| 2.2  |              |         |                   |
+| 1.1  |  Das Spiel ist gestartet und der Vogel ist auf der Mitte des Bildschirms zu sehen. | – |   Der Vogel stürzt ab |
+| 1.2  |  Das Spiel ist gestartet            |  Spacebar drücken       | Der Vogel ändert seine Flughöhe entsprechend der Eingabe.                   |
+| 2.1  |   Das Spiel ist gestartet            |   Erfolgreiches Durchfliegen von Pipes      | Der Spieler erhält eine Belohnung, z.B. ein neues Outfit für den Vogel.                   |
+| 2.2  |  Das Spiel ist gestartet             |  Kollision mit Pipe       | Der Spieler erhält keine Belohnung.                 |
 | 3.1  |Spiel gestartet|nichts|Welches Level wollen sie spielen?|
 | 3.2  | Spiel gestartet | Level wird ausgewählt | das Level startet |
 | 4.1  |Level wird gestartet|Easter Egg gefunden|Glückwunsch sie haben eine Münze erhalten|
@@ -46,8 +46,8 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 6.1  | Spiel gestartet | Level auswählen und starten | Hindernisse haben sich entsprechend dem Level angepasst |
 | 7.1  | Spiel gestartet | Spiel wird für eine gewisse Zeit gespielt | Zeit wie lange man überlebt hat wird angezeigt |
 | 8.1  | Spiel gestartet | alles mögliche | Das Programm läuft weiter|
-| 9.1  |              |         |                   |
-| 9.2  |              |         |                   |
+| 9.1  |  Spieler öffnet das Menü            | -        |  Der Spieler sieht seinen aktuellen Highscore.                 |
+| 9.2  |  Spiel läuft, Spieler erzielt einen neuen Highscore            |   -      | Der Spieler sieht seinen neuen Highscore im Menü.                  |
 | 10.1  |              |         |                   |
 | 10.2  |              |         |                   |
 | 11.1  | Shop geöffnet | Skin kaufen | Skin wurde erfolgreich gekauft und wurde der Garderobe hinzugefügt |
