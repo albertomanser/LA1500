@@ -44,10 +44,8 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 4.1  |Level wird gestartet|Easter Egg gefunden|Glückwunsch sie haben eine Münze erhalten|
 | 5.1  | Spieler hat verloren | Level neustarten | Level startet neu |
 | 6.1  | Spiel gestartet | Level auswählen und starten | Hindernisse haben sich entsprechend dem Level angepasst |
-| 7.1  |              |         |                   |
-| 7.2  |              |         |                   |
-| 8.1  |              |         |                   |
-| 8.2  |              |         |                   |
+| 7.1  | Spiel gestartet | Spiel wird für eine gewisse Zeit gespielt | Zeit wie lange man überlebt hat wird angezeigt |
+| 8.1  | Spiel gestartet | alles mögliche | Das Programm läuft weiter|
 | 9.1  |              |         |                   |
 | 9.2  |              |         |                   |
 | 10.1  |              |         |                   |
