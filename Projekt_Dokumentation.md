@@ -42,10 +42,8 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 3.1  |Spiel gestartet|nichts|Welches Level wollen sie spielen?|
 | 3.2  | Spiel gestartet | Level wird ausgewählt | das Level startet |
 | 4.1  |Level wird gestartet|Easter Egg gefunden|Glückwunsch sie haben eine Münze erhalten|
-| 5.1  |              |         |                   |
-| 5.2  |              |         |                   |
-| 6.1  |              |         |                   |
-| 6.2  |              |         |                   |
+| 5.1  | Spieler hat verloren | Level neustarten | Level startet neu |
+| 6.1  | Spiel gestartet | Level ausgewählt und gestartet | Hindernisse haben sich entsprechend dem Level angepasst |
 | 7.1  |              |         |                   |
 | 7.2  |              |         |                   |
 | 8.1  |              |         |                   |
@@ -54,8 +52,8 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 9.2  |              |         |                   |
 | 10.1  |              |         |                   |
 | 10.2  |              |         |                   |
-| 11.1  |              |         |                   |
-| 11.2  |              |         |                   |
+| 11.1  | Shop geöffnet | Skin kaufen | Skin wurde erfolgreich gekauft und wurde der Garderobe hinzugefügt |
+| 11.2  | Garderobe geöffnet | Skin auswählen | Skin wurde erfolgreich ausgewählt |
 
 ### 1.4 Diagramme
 
