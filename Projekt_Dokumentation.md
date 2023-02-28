@@ -43,7 +43,7 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 3.2  | Spiel gestartet | Level wird ausgew채hlt | das Level startet |
 | 4.1  |Level wird gestartet|Easter Egg gefunden|Gl체ckwunsch sie haben eine M체nze erhalten|
 | 5.1  | Spieler hat verloren | Level neustarten | Level startet neu |
-| 6.1  | Spiel gestartet | Level ausgew채hlen und startet | Hindernisse haben sich entsprechend dem Level angepasst |
+| 6.1  | Spiel gestartet | Level ausw채hlen und starten | Hindernisse haben sich entsprechend dem Level angepasst |
 | 7.1  |              |         |                   |
 | 7.2  |              |         |                   |
 | 8.1  |              |         |                   |
