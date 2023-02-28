@@ -39,10 +39,9 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 1.2  |              |         |                   |
 | 2.1  |              |         |                   |
 | 2.2  |              |         |                   |
-| 3.1  |              |         |                   |
-| 3.2  |              |         |                   |
-| 4.1  |              |         |                   |
-| 4.2  |              |         |                   |
+| 3.1  |Spiel gestartet|nichts|Welches Level wollen sie spielen?|
+| 3.2  | Spiel gestartet | Level wird ausgewählt | das Level startet |
+| 4.1  |Level wird gestartet|Easter Egg gefunden|Glückwunsch sie haben eine Münze erhalten|
 | 5.1  |              |         |                   |
 | 5.2  |              |         |                   |
 | 6.1  |              |         |                   |
