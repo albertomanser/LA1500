@@ -68,14 +68,8 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 2.A  | 07.03.23 | Kritzner | Der Spieler kann M체nzen aufsammeln | 45min |
 | 2.B  | 07.03.23 | Kritzner | Der Spieler erh채lt am Schluss vom Level extra M체nzen (F체r jede Pipe 1 M체nze extra) | 60min |
 | 2.C  | 07.03.23 | Kritzner | Wenn der Spieler einen Highscore macht kann er am Ende der Runde eine Truhe f체r M체nzen kaufen (enth채lt Skins) | 60min |
-| 3.A  |       |           |              |               |
-| 3.B  |       |           |              |               |
-| 3.C  |       |           |              |               |
-| 3.D  |       |           |              |               |
-| 4.A  |       |           |              |               |
-| 4.B  |       |           |              |               |
-| 4.C  |       |           |              |               |
-| 4.D  |       |           |              |               |
+| 3.A  | 7.3.2023|Manser|implementierung der Levelauswahl| 60|
+| 4.A  | 14.3.2023|Manser| Implementierung verschiedener Easter Eggs| 2 x 45|
 | 5.A  | 07.03.23         |  Atputharasa            | Implementierung der Neustart-Funktion             |    15'           |
 | 5.B  | 07.03.23        |  Atputharasa            |  Testen der Neustart-Funktion            |           5'    |
 | 6.A  |   07.03.23      | Atputharasa             | Planung der unterschiedlichen Hindernistypen             |     15'          |
