@@ -70,10 +70,9 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 1.B  |       |           |              |               |
 | 1.C  |       |           |              |               |
 | 1.D  |       |           |              |               |
-| 2.A  |       |           |              |               |
-| 2.B  |       |           |              |               |
-| 2.C  |       |           |              |               |
-| 2.D  |       |           |              |               |
+| 2.A  | 07.03.23 | Kritzner | Der Spieler kann Münzen aufsammeln | 45min |
+| 2.B  | 07.03.23 | Kritzner | Der Spieler erhält am Schluss vom Level extra Münzen (Für jede Pipe 1 Münze extra) | 60min |
+| 2.C  | 07.03.23 | Kritzner | Wenn der Spieler einen Highscore macht kann er am Ende der Runde eine Truhe für Münzen kaufen (enthält Skins) | 60min |
 | 3.A  |       |           |              |               |
 | 3.B  |       |           |              |               |
 | 3.C  |       |           |              |               |
@@ -106,10 +105,10 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 10.B  |       |           |              |               |
 | 10.C  |       |           |              |               |
 | 10.D  |       |           |              |               |
-| 11.A  |       |           |              |               |
-| 11.B  |       |           |              |               |
-| 11.C  |       |           |              |               |
-| 11.D  |       |           |              |               |
+| 11.A  | 14.03.23 | Kritzner | Einen Shop erstellen wo man Skins kaufen kann | 3 x 45min |
+| 11.B  | 14.03.23 | Kritzner | Im Shop gibt es mehrere Skins | 2 x 45min |
+| 11.C  | 21.03.23 | Kritzner | Überprüfen ob der Spieler genügend Münzen hat um einen Skin zu kaufen | 20min |
+| 11.D | 21.03.23 | Kritzner | Der Spieler kann die gekauften Skins in einer Garderobe anziehen | 2 x 45min |
 | 12.A  |       |           |              |               |
 | 12.B  |       |           |              |               |
 | 12.C  |       |           |              |               |
