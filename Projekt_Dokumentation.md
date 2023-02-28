@@ -35,10 +35,10 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| 1.2  |              |         |                   |
-| 2.1  |              |         |                   |
-| 2.2  |              |         |                   |
+| 1.1  |  Das Spiel ist gestartet und der Vogel ist auf der Mitte des Bildschirms zu sehen. | – |   Der Vogel stürzt ab |
+| 1.2  |  Das Spiel ist gestartet            |  Spacebar drücken       | Der Vogel ändert seine Flughöhe entsprechend der Eingabe.                   |
+| 2.1  |   Das Spiel ist gestartet            |   Erfolgreiches Durchfliegen von Pipes      | Der Spieler erhält eine Belohnung, z.B. ein neues Outfit für den Vogel.                   |
+| 2.2  |  Das Spiel ist gestartet             |  Kollision mit Pipe       | Der Spieler erhält keine Belohnung.                 |
 | 3.1  |              |         |                   |
 | 3.2  |              |         |                   |
 | 4.1  |              |         |                   |
@@ -51,8 +51,8 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 7.2  |              |         |                   |
 | 8.1  |              |         |                   |
 | 8.2  |              |         |                   |
-| 9.1  |              |         |                   |
-| 9.2  |              |         |                   |
+| 9.1  |  Spieler öffnet das Menü            | -        |  Der Spieler sieht seinen aktuellen Highscore.                 |
+| 9.2  |  Spiel läuft, Spieler erzielt einen neuen Highscore            |   -      | Der Spieler sieht seinen neuen Highscore im Menü.                  |
 | 10.1  |              |         |                   |
 | 10.2  |              |         |                   |
 | 11.1  |              |         |                   |
