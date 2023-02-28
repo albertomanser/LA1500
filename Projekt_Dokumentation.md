@@ -65,7 +65,6 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 1.A  | 07.03.23       | Atputharasa          |    Implementierung der Vogel-Steuerung          |  35'             |
 | 1.B  |  07.03.23      | Atputharasa           |  Testen der Vogel-Steuerung            |        5'       |
 | 1.C  |  07.03.23      | Atputharasa           |  Anpassung der Steuerungsempfindlichkeit            |   10'            |
-| 1.D  |  07.03.23      |  Atputharasa          |              |               |
 | 2.A  | 07.03.23 | Kritzner | Der Spieler kann Münzen aufsammeln | 45min |
 | 2.B  | 07.03.23 | Kritzner | Der Spieler erhält am Schluss vom Level extra Münzen (Für jede Pipe 1 Münze extra) | 60min |
 | 2.C  | 07.03.23 | Kritzner | Wenn der Spieler einen Highscore macht kann er am Ende der Runde eine Truhe für Münzen kaufen (enthält Skins) | 60min |
@@ -79,12 +78,9 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 4.D  |       |           |              |               |
 | 5.A  | 07.03.23         |  Atputharasa            | Implementierung der Neustart-Funktion             |    15'           |
 | 5.B  | 07.03.23        |  Atputharasa            |  Testen der Neustart-Funktion            |           5'    |
-| 5.C  | 07.03.23        |   Atputharasa           |              |               |
-| 5.D  |  07.03.23       | Atputharasa             |              |               |
 | 6.A  |   07.03.23      | Atputharasa             | Planung der unterschiedlichen Hindernistypen             |     15'          |
 | 6.B  |   07.03.23      |  Atputharasa            | Implementierung der Hindernistypen             |     45'          |
 | 6.C  | 07.03.23        |   Atputharasa           |  Testing der Hindernistypen            |          5'     |
-| 6.D  |  07.03.23       |    Atputharasa          |              |               |
 | 7.A  |       |           |              |               |
 | 7.B  |       |           |              |               |
 | 7.C  |       |           |              |               |
@@ -96,7 +92,6 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 9.A  |    07.03.23     |        Atputharasa      |  Implementierung einer Anzeige für den aktuellen Highscore.            |   25'            |
 | 9.B  |    07.03.23     |       Atputharasa       | Implementierung einer Funktion, um den Highscore im Menü anzuzeigen.             | 15'              |
 | 9.C  |     07.03.23    |       Atputharasa       | Testen der Anzeige auf Richtigkeit.             |       5'        |
-| 9.D  |    07.03.23     |       Atputharasa       |              |               |
 | 10.A  |       |           |              |               |
 | 10.B  |       |           |              |               |
 | 10.C  |       |           |              |               |
