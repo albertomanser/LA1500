@@ -90,10 +90,7 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 10.B  | 14.03.23 | Kritzner | Im Shop gibt es mehrere Skins | 2 x 45min |
 | 10.C  | 21.03.23 | Kritzner | Überprüfen ob der Spieler genügend Münzen hat um einen Skin zu kaufen | 20min |
 | 10.D | 21.03.23 | Kritzner | Der Spieler kann die gekauften Skins in einer Garderobe anziehen | 2 x 45min |
-| 11.A  |       |           |              |               |
-| 11.B  |       |           |              |               |
-| 11.C  |       |           |              |               |
-| 11.D  |       |           |              |               |
+
 
 
 
