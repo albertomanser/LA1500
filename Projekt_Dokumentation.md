@@ -69,10 +69,10 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 5.A  | 07.03.23                            | Atputharasa | Implementierung der Neustart-Funktion                                                                         | 15'           |
 | 6.A  | 07.03.23                            | Atputharasa | Planung der unterschiedlichen Hindernistypen                                                                  | 15'           |
 | 6.B  | 07.03.23                            | Atputharasa | Implementierung der Hindernistypen                                                                            | 45'           |
-| 7.A  | 07.03.23                            | Bächli      | Implementierung der Highscore                                                                                 | 20'           |
+| 7.A  | 07.03.23                            | Bächli      | Implementierung des Highscores                                                                                 | 20'           |
 | 7.B  | 07.03.23                            | Bächli      | Implementierung der Überlebenszeit                                                                            | 20'           |
 | 7.C  | 07.03.23                            | Bächli      | Implementierung einer Funktion, um die Anzeige zu aktualisieren, wenn der Spieler voranschreitet oder stirbt  | 20'           |
-| 8.A  | 14.3.23                             | Bächli      | Identifizierung mögliche Absturzursachen im Code.                                                             | 20'           |
+| 8.A  | 14.3.23                             | Bächli      | Identifizierung möglicher Absturzursachen im Code.                                                             | 20'           |
 | 8.B  | 14.3.23 | Bächli      | Beseitigen der potenziellen Absturzursachen                                                                   | 20'           |
 | 9.A  | 07.03.23                            | Atputharasa | Implementierung einer Anzeige für den aktuellen Highscore.                                                    | 25'           |
 | 9.B  | 07.03.23                            | Atputharasa | Implementierung einer Funktion, um den Highscore im Menü anzuzeigen.                                          | 15'           |
