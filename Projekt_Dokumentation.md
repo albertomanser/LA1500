@@ -20,15 +20,15 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | US-№ | Verbindlichkeit | Typ        | Beschreibung                                                                                  |
 | ---- | --------------- | ---------- | --------------------------------------------------------------------------------------------- |
 | 1    | Muss            | Funktional | Als ein Spieler möchte ich den Vogel steuern, damit ich den Pipes Ausweichen kann.            |
-| 2    | Muss            | Funktional | Als ein Spieler möchte ich eine Form von Behlohnung erhalten, indem ich Leistungen erbringe.  |
-| 3    | Kann            | Qualität   | Als ein Spieler möchte ich verschiedene Level spielen können.                                 |
-| 4    | Kann            | Qualität   | Als ein Spieler möchte ich verschiedene Easter Eggs im Spiel finden können.                   |
-| 5    | Muss            | Funktional | Als ein Spieler möchte ich, eine neue Runde starten können.                                   |
-| 6    | Muss            | Funktional | Als ein Spieler möchte ich, dass die Hindernisse unterschiedlich sind.                        |
-| 7    | Muss            | Funktional | Als ein Spieler möchte ich wissen, wie weit ich gekommen bin und wie lange ich überlebt habe. |
-| 8    | Muss            | Funktional | Als ein Programmierer möchte ich, dass das Spiel absturzsicher ist.                           |
-| 9    | Muss            | Funktional | Als ein Spieler möchte ich mein Highscore im Menu sehen.                                      |
-| 10   | Kann            | Qualität   | Als Spieler möchte ich verschiedene Skins verwenden können                                    |
+| 2    | Muss            | Funktional | Als ein Spieler möchte ich eine Form von Belohnung erhalten, damit ich motivierend weiterspiele.  |
+| 3    | Kann            | Qualität   | Als ein Spieler möchte ich verschiedene Level spielen können, damit es abwechslungsreich ist.                                 |
+| 4    | Kann            | Qualität   | Als ein Spieler möchte ich verschiedene Easter Eggs im Spiel finden können, damit ich Spass habe.                   |
+| 5    | Muss            | Funktional | Als ein Spieler möchte ich, eine neue Runde starten können, damit ich weiterspielen kann.                                   |
+| 6    | Muss            | Funktional | Als ein Spieler möchte ich, dass die Pipes unterschiedlich positioniert sind, damit es herausfordernd ist.                        |
+| 7    | Muss            | Funktional | Als ein Spieler möchte ich wissen, wie weit ich gekommen bin und wie lange ich überlebt habe, damit ich weiss, wenn ich meinen Highscore biete. |
+| 8    | Muss            | Funktional | Als ein Programmierer möchte ich, dass das Spiel absturzsicher ist, damit ich ohne Probleme spielen kann.                           |
+| 9    | Muss            | Funktional | Als ein Spieler möchte ich mein Highscore im Menu sehen, damit ich weiss, ab wann ich meinen Highscore biete.                                      |
+| 10   | Kann            | Qualität   | Als Spieler möchte ich verschiedene Skins verwenden können, damit ich mehr Freude habe.                                |
 | 11   | Muss            | Rand       | Das Programm soll in C# geschrieben werden.                                                   |
 
 ### 1.3 Testfälle
