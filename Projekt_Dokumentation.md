@@ -103,8 +103,9 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 2.B  | 07.03.2023 | Filip Kritzner | 60min | 50min |
+| 2.C  | 07.03.2023 | Filip Kritzner | 60min | 90min |
+| 10.B  | 07.03.2023 | Filip Kritzner | 45min | 40min |
 
 ## 5 Kontrollieren
 
