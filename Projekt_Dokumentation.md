@@ -74,8 +74,8 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 7.C  | 07.03.23                            | Bächli      | Implementierung einer Funktion, um die Anzeige zu aktualisieren, wenn der Spieler voranschreitet oder stirbt  | 20'           |
 | 8.A  | 14.3.23                             | Bächli      | Identifizierung möglicher Absturzursachen im Code.                                                             | 20'           |
 | 8.B  | 14.3.23 | Bächli      | Beseitigen der potenziellen Absturzursachen                                                                   | 20'           |
-| 9.A  | 07.03.23                            | Atputharasa | Implementierung einer Anzeige für den aktuellen Highscore.                                                    | 25'           |
-| 9.B  | 07.03.23                            | Atputharasa | Implementierung einer Funktion, um den Highscore im Menü anzuzeigen.                                          | 15'           |
+| 9.A  | 07.03.23                            | Bächli | Implementierung einer Anzeige für den aktuellen Highscore.                                                    | 25'           |
+| 9.B  | 07.03.23                            | Bächli | Implementierung einer Funktion, um den Highscore im Menü anzuzeigen.                                          | 15'           |
 | 10.A | 14.03.23                            | Kritzner    | Einen Shop erstellen wo man Skins kaufen kann                                                                 | 3 x 45min     |
 | 10.B | 14.03.23                            | Kritzner    | Im Shop gibt es mehrere Skins                                                                                 | 2 x 45min     |
 | 10.C | 21.03.23                            | Kritzner    | Überprüfen ob der Spieler genügend Münzen hat um einen Skin zu kaufen                                         | 20min         |
