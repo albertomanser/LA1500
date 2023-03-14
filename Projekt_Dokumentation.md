@@ -78,8 +78,8 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 5.E  | 07.03.2023 | Atputharasa | Implementierung der Bestätigungsfunktion, um zu verhindern, dass der Spieler versehentlich ein neues Spiel startet | 60            |
 | 6.A  | 07.03.23   | Atputharasa | Planung der unterschiedlichen Pipes                                                                                | 15'           |
 | 6.B  | 07.03.23   | Atputharasa | Implementierung der Pipestypen                                                                                     | 45'           |
-| 6.C  | 07.03.2023 | Atputharasa | Implementierung der Logik zur Generierung von zufälligen Platzierung von Pipes                                     | 60            |
-| 6.D  | 07.03.2023 | Atputharasa | implementierung der Levelauswahl                                                                                   | 60            |
+| 6.C  | 07.03.2023 | Atputharasa | Implementierung der Logik zur Generierung von zufälligen Platzierung von Pipes                                     | 60 '       |
+
 | 7.A  | 07.03.23   | Bächli      | Implementierung des Highscores                                                                                     | 20'           |
 | 7.B  | 07.03.23   | Bächli      | Implementierung der Überlebenszeit                                                                                 | 20'           |
 | 7.C  | 07.03.23   | Bächli      | Design der Benutzeroberfläche für die Anzeige des Highscores und der Überlebensdauer                               | 20'           |
@@ -103,19 +103,19 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 07.03.2023 | Agachan Atputharasa| 35min | 20min |
-| 2.B  | 07.03.2023 | Filip Kritzner | 60min | 50min |
-| 2.C  | 07.03.2023 | Filip Kritzner | 60min | 90min |
- | 3.A | 07.03.2023 | Alberto Manser | 60min | 40min |
- | 3.B | 07.03.2023 | Alberto Manser | 60min | 40min |
- | 5.A  | 07.03.2023 | Agachan Atputharasa| 15min | 30min |
-| 5.B  | 07.03.2023 | Agachan Atputharasa| 60min | 15min |
-| 5.C  | 07.03.2023 | Agachan Atputharasa| 60min | 20min |
-| 5.D | 07.03.2023 | Agachan Atputharasa| 15min | 30min |
-| 6.A  | 07.03.2023 | Agachan Atputharasa| 45min | 15min |
-| 6.B  | 07.03.2023 | Agachan Atputharasa| 60min | 45min |
-| 6.C  | 07.03.2023 | Agachan Atputharasa| 60min | 50min |
-| 10.B  | 07.03.2023 | Filip Kritzner | 45min | 40min |
+| 1.A  | 07.03.2023 | Agachan Atputharasa| 35' | 20' |
+| 2.B  | 07.03.2023 | Filip Kritzner | 60' | 50' |
+| 2.C  | 07.03.2023 | Filip Kritzner | 60' | 90' |
+| 3.A | 07.03.2023 | Alberto Manser | 60' | 40' |
+| 3.B | 07.03.2023 | Alberto Manser | 60' | 40' |
+| 5.A  | 07.03.2023 | Agachan Atputharasa| 15' | 30' |
+| 5.B  | 07.03.2023 | Agachan Atputharasa| 60' | 15' |
+| 5.C  | 07.03.2023 | Agachan Atputharasa| 60' | 20' |
+| 5.D | 07.03.2023 | Agachan Atputharasa| 15' | 30' |
+| 6.A  | 07.03.2023 | Agachan Atputharasa| 45' | 15' |
+| 6.B  | 07.03.2023 | Agachan Atputharasa| 60' | 45' |
+| 6.C  | 07.03.2023 | Agachan Atputharasa| 60' | 50' |
+| 10.B  | 07.03.2023 | Filip Kritzner | 45' | 40' |
 
 ## 5 Kontrollieren
 
