@@ -103,10 +103,18 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
+| 1.A  | 07.03.2023 | Agachan Atputharasa| 35min | 20min |
 | 2.B  | 07.03.2023 | Filip Kritzner | 60min | 50min |
 | 2.C  | 07.03.2023 | Filip Kritzner | 60min | 90min |
  | 3.A | 07.03.2023 | Alberto Manser | 60min | 40min |
  | 3.B | 07.03.2023 | Alberto Manser | 60min | 40min |
+ | 5.A  | 07.03.2023 | Agachan Atputharasa| 15min | 30min |
+| 5.B  | 07.03.2023 | Agachan Atputharasa| 60min | 15min |
+| 5.C  | 07.03.2023 | Agachan Atputharasa| 60min | 20min |
+| 5.D | 07.03.2023 | Agachan Atputharasa| 15min | 30min |
+| 6.A  | 07.03.2023 | Agachan Atputharasa| 45min | 15min |
+| 6.B  | 07.03.2023 | Agachan Atputharasa| 60min | 45min |
+| 6.C  | 07.03.2023 | Agachan Atputharasa| 60min | 50min |
 | 10.B  | 07.03.2023 | Filip Kritzner | 45min | 40min |
 
 ## 5 Kontrollieren
