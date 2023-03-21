@@ -64,7 +64,7 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | ---- | ---------- | ----------- | ------------------------------------------------------------------------------------------------------------------ | ------------- |
 | 1.A  | 07.03.23   | Atputharasa | Implementierung der Vogel-Steuerung                  | 35'           |
 | 2.B  | 07.03.23   | Kritzner    | Der Spieler erhält am Schluss vom Level extra Münzen (Für jede Pipe 1 Münze extra)                  | 60min         |
-| 2.C  | 07.03.23   | Kritzner    | Wenn der Spieler einen Highscore macht kann er am Ende der Runde eine Truhe für Münzen kaufen (enthält Skins)      | 60min   |
+| 2.C  | 07.03.23   | Kritzner    | Wenn der Spieler einen Highscore macht kann er am Ende der Runde eine Truhe für Münzen kaufen (enthält vielleicht Skin)      | 60min   |
 | 3.A  | 07.03.2023 | Manser      | Implementierung der Levelauswahl                                                                                   | 60   |
 | 3.B  | 07.03.2023 | Manser      | Design der Benutzeroberfäche für die Levelauswahl                                           | 60            |
 | 3.C  | 07.03.2023 | Manser      | Highscore für die verschiedene Levelauswahl zu speichern                                        | 60            |
@@ -115,6 +115,10 @@ Total:
 | 6.B  | 07.03.2023 | Agachan Atputharasa| 60' | 45' |
 | 6.C  | 07.03.2023 | Agachan Atputharasa| 60' | 50' |
 | 10.B  | 07.03.2023 | Filip Kritzner | 45' | 40' |
+| 10.C | 14.03.23   | Kritzner    | 2 x 45min   | 60' |
+| 10.D | 21.03.23   | Kritzner    | 20min       | 10' |
+| 10.E | 21.03.23   | Kritzner    | 2 x 45min   | 70' |
+
 
 ## 5 Kontrollieren
 
