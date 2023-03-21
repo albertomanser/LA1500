@@ -115,9 +115,9 @@ Total:
 | 6.B  | 07.03.2023 | Agachan Atputharasa| 60' | 45' |
 | 6.C  | 07.03.2023 | Agachan Atputharasa| 60' | 50' |
 | 10.B  | 07.03.2023 | Filip Kritzner | 45' | 40' |
-| 10.C | 14.03.23   | Kritzner    | 2 x 45min   | 60' |
-| 10.D | 21.03.23   | Kritzner    | 20min       | 10' |
-| 10.E | 21.03.23   | Kritzner    | 2 x 45min   | 70' |
+| 10.C | 14.03.23   | Kritzner    | 2 x 45'  | 60' |
+| 10.D | 21.03.23   | Kritzner    | 20'       | 10' |
+| 10.E | 21.03.23   | Kritzner    | 2 x 45'   | 70' |
 
 
 ## 5 Kontrollieren
