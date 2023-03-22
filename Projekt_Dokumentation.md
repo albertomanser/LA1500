@@ -10,7 +10,7 @@ Gruppenmitglieder: Atputharasa, Bächli, Kritzner, Manser
 | 28.02.23 | 0.0.2   | Realisieren angefangen und Arbeitspakete eingeteilt 1.3 und 2 ausgefüllt. |
 | 07.03.23 | 0.0.3   | Realisieren angefangen und Arbeitspakete eingeteilt 1.3 und 2 ausgefüllt. |
 | 14.03.23 | 0.0.4   | Angefangen zu Programmieren. |
-| 21.03.23 | 0.0.5   | Programm fertig gestellt und 5.1 ausgefüllt. |
+| 21.03.23 | 1.0.0   | Programm fertig gestellt und 5.1 ausgefüllt. |
 
 ## 1 Informieren
 
