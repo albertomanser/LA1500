@@ -127,17 +127,17 @@ Total:
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  | 21.03.2023 | Erfolgreich | Filip Kritzner |
-| 1.2  | 21.03.2023 | Erfolgreich | Filip Kritzner |
+| 1.2  | 21.03.2023 | Erfolgreich | Alberto Manser |
 | 2.1  | 21.03.2023 | Erfolgreich | Filip Kritzner |
 | 2.2  | 21.03.2023 | Erfolgreich | Filip Kritzner |
 | 3.1  | 21.03.2023 | Erfolgreich | Alberto Manser |
-| 3.2  | 21.03.2023 | Erfolgreich | Alberto Manser |
+| 3.2  | 21.03.2023 | Erfolgreich | Filip Kritzner |
 | 4.1  | 21.03.2023 | Erfolgreich | Alberto Manser |
 | 5.1  | 21.03.2023 | Erfolgreich | Alberto Manser |
 | 6.1  | 21.03.2023 | Erfolgreich | Agachan Atputharasa |
-| 7.1  | 21.03.2023 | Erfolgreich | Agachan Atputharasa |
+| 7.1  | 21.03.2023 | Erfolgreich | Sven Bächli |
 | 8.1  | 21.03.2023 | Erfolgreich | Agachan Atputharasa |
-| 9.1  | 21.03.2023 | Erfolgreich | Sven Bächli |
+| 9.1  | 21.03.2023 | Erfolgreich | Agachan Atputharasa |
 | 10.1  | 21.03.2023 | Erfolgreich | Sven Bächli |
 | 10.2  | 21.03.2023 | Erfolgreich | Sven Bächli |
 
