@@ -120,6 +120,7 @@ Total: `3` ╳ `4` ╳`4` = `48`
 | 10.C | 14.03.23   | Kritzner    | 2 x 45'  | 60' |
 | 10.D | 21.03.23   | Kritzner    | 20'       | 10' |
 | 10.E | 21.03.23   | Kritzner    | 2 x 45'   | 70' |
+| Total| 04.04.23   | Gardenia    |    '| ' |
 
 
 ## 5 Kontrollieren
