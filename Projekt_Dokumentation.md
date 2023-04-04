@@ -8,8 +8,8 @@ Gruppenmitglieder: Atputharasa, Bächli, Kritzner, Manser
 | -------- | ------- | ------------------------------------------------------------------------- |
 | 21.02.23 | 0.0.1   | Dokumentation angefangen und Schritte 1.1, 1.2 und 1.4 ausgefüllt.        |
 | 28.02.23 | 0.0.2   | Realisieren angefangen und Arbeitspakete eingeteilt 1.3 und 2 ausgefüllt. |
-| 07.03.23 | 0.0.3   | Realisieren angefangen und Arbeitspakete eingeteilt 1.3 und 2 ausgefüllt. |
-| 14.03.23 | 0.0.4   | Angefangen zu Programmieren. |
+| 07.03.23 | 0.0.3   |Die Ersten Arbeitspakete fertiggestellt. |
+| 14.03.23 | 0.0.4   | Weitere Arbeitspakete fertiggestellt und <Projektdokumentation verbessert. |
 | 21.03.23 | 1.0.0   | Programm fertig gestellt und 5.1 ausgefüllt. |
 
 ## 1 Informieren
@@ -96,7 +96,7 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 10.D | 21.03.23   | Kritzner    | Überprüfen ob der Spieler genügend Münzen hat um einen Skin zu kaufen                                              | 20'       |
 | 10.E | 21.03.23   | Kritzner    | Der Spieler kann die gekauften Skins in einer Garderobe anziehen                                                   | 2 x 45'   |
 
-Total: 
+Total: `3` ╳ `4` ╳`4` = `48`
 
 ## 3 Entscheiden
 
