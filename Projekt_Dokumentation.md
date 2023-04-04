@@ -144,6 +144,8 @@ Total: `3` ╳ `4` ╳`4` = `48`
 | 10.1  | 21.03.2023 | Erfolgreich | Sven Bächli |
 | 10.2  | 21.03.2023 | Erfolgreich | Sven Bächli |
 
+Die Ergebnisse im Testprotokoll zeigen, dass alle erwarteten Funktionen des Spiels einwandfrei funktionieren. Wir haben erfolgreich alle Testfälle durchgeführt und die Ergebnisse waren in allen Fällen "Erfolgreich".
+
 ### 5.2 Exploratives Testen
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
