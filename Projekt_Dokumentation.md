@@ -100,6 +100,7 @@ Total: `3` ╳ `4` ╳`4` = `48`
 
 ## 3 Entscheiden
 
+Wegen fehlender Zeit haben wir uns entschieden die User Story 4 nicht zu realisieren.
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
