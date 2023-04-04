@@ -151,6 +151,15 @@ Die Ergebnisse im Testprotokoll zeigen, dass alle erwarteten Funktionen des Spie
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
+| I | Das Spiel ist gestartet und der Vogel ist auf der Mitte des Bildschirms zu sehen. | – | Der Vogel stürzt ab |Eine neue Runde kann gestartet werden|
+| II |  Das Spiel ist gestartet                                                           | Spacebar drücken                          | Der Vogel ändert seine Flughöhe entsprechend der Eingabe.               |Der Vogel kann gesteuert werden|
+| III | Das Spiel ist gestartet                                                           | Erfolgreiches Durchfliegen von Pipes      | Der Spieler erhält eine Münze pro Pipe. | Der Der Spieler erhält eine Münze pro Pipe |
+| IV | Das Spiel ist gestartet                                                           | Kollision mit Pipe                        | Der Spieler erhält die gesammelten Münzen. Ausserdem kann er eine Kiste mit Münzen kaufen. |Die Kiste kann mit Münzen gekauft werden und man erhält den Skin|
+| V |  Spiel gestartet                                                                   | nichts                                    | Welches Level wollen sie spielen?     |Man kann im Menü das Level auswählen|
+| VI | Spiel gestartet                                                                   | Spiel wird für eine gewisse Zeit gespielt | Zeit wie lange man überlebt hat wird angezeigt      |Man sieht im Menü wie lange man überlebt hat|
+| VII |  Spieler öffnet das Menü                                                           | -                                         | Der Spieler sieht seinen aktuellen Highscore. |Er sieht den Highscore von seinen aktuellen Map|
+| VIII | Shop geöffnet                                                                     | Skin kaufen                               | Skin wurde erfolgreich gekauft und wurde der Garderobe hinzugefügt |Kann seinen Skin wählen|
+
 
 ## 6 Auswerten
 
