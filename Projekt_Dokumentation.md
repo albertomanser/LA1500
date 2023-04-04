@@ -65,19 +65,19 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | AP-№ | Frist      | Zuständig   | Beschreibung                                                                                                       | geplante Zeit |
 | ---- | ---------- | ----------- | ------------------------------------------------------------------------------------------------------------------ | ------------- |
 | 1.A  | 07.03.23   | Atputharasa | Implementierung der Vogel-Steuerung                  | 35'           |
-| 2.B  | 07.03.23   | Kritzner    | Der Spieler erhält am Schluss vom Level extra Münzen (Für jede Pipe 1 Münze extra)                  | 60min         |
-| 2.C  | 07.03.23   | Kritzner    | Wenn der Spieler einen Highscore macht kann er am Ende der Runde eine Truhe für Münzen kaufen (enthält vielleicht Skin)      | 60min   |
-| 3.A  | 07.03.2023 | Manser      | Implementierung der Levelauswahl                                                                                   | 60   |
-| 3.B  | 07.03.2023 | Manser      | Design der Benutzeroberfäche für die Levelauswahl                                           | 60            |
-| 3.C  | 07.03.2023 | Manser      | Highscore für die verschiedene Levelauswahl zu speichern                                        | 60            |
-| 3.D  | 07.03.2023 | Manser      | Implementierung der Überprüfung, ob der Spieler das ausgewählte Level freigeschaltet hat         | 60            |
-| 4.A  | 14.03.2023 | Manser      | Implementierung verschiedener Easter Eggs                                                                 | 2 x 45        |
-| 4.B  | 14.03.2023 | Manser      | Festlegen der Easter-Egg-Regeln und deren Platzierung im Spiel                                             | 60            |
-| 4.C  | 14.03.2023 | Manser      | Implementierung der Easter-Egg-Suche-Logik                                                              | 60            |
+| 2.B  | 07.03.23   | Kritzner    | Der Spieler erhält am Schluss vom Level extra Münzen (Für jede Pipe 1 Münze extra)                  | 60'         |
+| 2.C  | 07.03.23   | Kritzner    | Wenn der Spieler einen Highscore macht kann er am Ende der Runde eine Truhe für Münzen kaufen (enthält vielleicht Skin)      | 60'  |
+| 3.A  | 07.03.2023 | Manser      | Implementierung der Levelauswahl                                                                                   | 60'   |
+| 3.B  | 07.03.2023 | Manser      | Design der Benutzeroberfäche für die Levelauswahl                                           | 60'            |
+| 3.C  | 07.03.2023 | Manser      | Highscore für die verschiedene Levelauswahl zu speichern                                        | 60'            |
+| 3.D  | 07.03.2023 | Manser      | Implementierung der Überprüfung, ob der Spieler das ausgewählte Level freigeschaltet hat         | 60'            |
+| 4.A  | 14.03.2023 | Manser      | Implementierung verschiedener Easter Eggs                                                                 | 2 x 45'        |
+| 4.B  | 14.03.2023 | Manser      | Festlegen der Easter-Egg-Regeln und deren Platzierung im Spiel                                             | 60'            |
+| 4.C  | 14.03.2023 | Manser      | Implementierung der Easter-Egg-Suche-Logik                                                              | 60'            |
 | 5.A  | 07.03.23   | Atputharasa | Implementierung der Neustart-Funktion                                                                           | 15'           |
-| 5.B  | 07.03.2023 | Atputharasa | Implementierung der Benutzeroberfläche, um den Neustart-Button anzuzeigen                                      | 60            |
-| 5.D  | 07.03.2023 | Atputharasa | Implementierung der Funktionalität, um das Spiel zurückzusetzen und eine neue Runde zu starten                  | 60            |
-| 5.E  | 07.03.2023 | Atputharasa | Implementierung der Bestätigungsfunktion, um zu verhindern, dass der Spieler versehentlich ein neues Spiel startet | 60          |
+| 5.B  | 07.03.2023 | Atputharasa | Implementierung der Benutzeroberfläche, um den Neustart-Button anzuzeigen                                      | 60'            |
+| 5.D  | 07.03.2023 | Atputharasa | Implementierung der Funktionalität, um das Spiel zurückzusetzen und eine neue Runde zu starten                  | 60'            |
+| 5.E  | 07.03.2023 | Atputharasa | Implementierung der Bestätigungsfunktion, um zu verhindern, dass der Spieler versehentlich ein neues Spiel startet | 60'          |
 | 6.A  | 07.03.23   | Atputharasa | Planung der unterschiedlichen Pipes                                                                                | 15'         |
 | 6.B  | 07.03.23   | Atputharasa | Implementierung der Pipestypen                                                                                     | 45'         |
 | 6.C  | 07.03.2023 | Atputharasa | Implementierung der Logik zur Generierung von zufälligen Platzierung von Pipes                                     | 60 '       |
@@ -90,11 +90,11 @@ Allen hat das Programmieren mit Windows Forms am besten gefallen und wollen zus�
 | 8.B  | 14.3.23    | Bächli      | Beseitigen der potenziellen Absturzursachen                                                                        | 20'         |
 | 9.A  | 07.03.23   | Manseer     | Implementierung eines Menu                                                                                         | 20'         |
 | 9.B  | 07.03.23   | Bächli      | Implementierung einer Funktion, um den Highscore im Menü anzuzeigen.                                               | 15'         |
-| 10.A | 07.03.2023 | Manser      | Skins designen                                                                                                     | 60          |
-| 10.B | 14.03.23   | Kritzner    | Einen Shop erstellen wo man Skins kaufen kann                                                                      | 3 x 45min   |
-| 10.C | 14.03.23   | Kritzner    | Im Shop gibt es mehrere Skins                                                                                      | 2 x 45min   |
-| 10.D | 21.03.23   | Kritzner    | Überprüfen ob der Spieler genügend Münzen hat um einen Skin zu kaufen                                              | 20min       |
-| 10.E | 21.03.23   | Kritzner    | Der Spieler kann die gekauften Skins in einer Garderobe anziehen                                                   | 2 x 45min   |
+| 10.A | 07.03.2023 | Manser      | Skins designen                                                                                                     | 60'          |
+| 10.B | 14.03.23   | Kritzner    | Einen Shop erstellen wo man Skins kaufen kann                                                                      | 3 x 45'  |
+| 10.C | 14.03.23   | Kritzner    | Im Shop gibt es mehrere Skins                                                                                      | 2 x 45'  |
+| 10.D | 21.03.23   | Kritzner    | Überprüfen ob der Spieler genügend Münzen hat um einen Skin zu kaufen                                              | 20'       |
+| 10.E | 21.03.23   | Kritzner    | Der Spieler kann die gekauften Skins in einer Garderobe anziehen                                                   | 2 x 45'   |
 
 Total: 
 
