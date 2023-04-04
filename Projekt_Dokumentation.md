@@ -162,6 +162,6 @@ Die Ergebnisse im Testprotokoll zeigen, dass alle erwarteten Funktionen des Spie
 
 
 ## 6 Auswerten
-Link zum Lernbericht: [Lernbericht](https://github.com/albertomanser/LA1500/blob/main/README.md)
+[Lernbericht](https://github.com/albertomanser/LA1500/blob/main/README.md)
 
 
